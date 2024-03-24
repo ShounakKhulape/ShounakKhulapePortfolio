@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Complete Linux Training 2024",
+      "category": "Udemy",
+      "date": "Jan 27, 2024",
+      "image": "/images/blog-1.jpg",
+      "description": "Skills: Linux System Administration.."
+    },
+    {
+      "title": "Complete Linux Bash Shell Scripting",
+      "category": "Udemy",
+      "date": "Mar 1, 2024",
+      "image": "/images/blog-2.jpg",
+      "description": "Skills: Shell Scripting.."
+    },
+    {
+      "title": "Docker for the Absolute Begineer",
+      "category": "Udemy",
+      "date": "Feb 4, 2024",
+      "image": "/images/blog-3.jpg",
+      "description": "Skills: Docker."
+    },
+    {
+      "title": "Golang for Beginners",
+      "category": "Udemy",
+      "date": "Feb 20, 2024",
+      "image": "/images/blog-4.jpg",
+      "description": "Skills: Go (Programming Language)."
+    },
+    {
+      "title": "Introduction to DevOps",
+      "category": "Udemy",
+      "date": "Jan 31, 2024",
+      "image": "/images/blog-5.jpg",
+      "description": "Skills: Basics of DevOps Principles."
+    }
+  ]
+  

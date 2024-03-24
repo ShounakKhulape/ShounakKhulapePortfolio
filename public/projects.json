@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Docker Overview",
+      "category": "Docker",
+      "image": "images/docker overview.JPG"
+    },
+    {
+      "id": 2,
+      "title": "Go - Data types",
+      "category": "Golang",
+      "image": "images/data.PNG"
+    },
+    {
+      "id": 3,
+      "title": "Basic Shell Scripting - 3",
+      "category": "Shell scripting",
+      "image": "images/2.PNG"
+    },
+    {
+      "id": 4,
+      "title": "Kubernetes Overview - Container Overview",
+      "category": "Kubernetes",
+      "image": "images/container.PNG"
+    },
+    {
+      "id": 5,
+      "title": "Build and deploy voting app using docker",
+      "category": "Docker",
+      "image": "images/Voting-app.gif"
+    },
+    {
+      "id": 6,
+      "title": "Build and deploy simple webapp using docker",
+      "category": "Docker",
+      "image": "images/cloud.PNG"
+    },
+    {
+      "id": 7,
+      "title": "Go - Pointer",
+      "category": "Golang",
+      "image": "images/pointer.PNG"
+    },
+    {
+      "id": 8,
+      "title": "Shell Scripting Basic",
+      "category": "Shell scripting",
+      "image": "images/basic.PNG"
+    },
+    {
+      "id": 9,
+      "title": "Docker Compose",
+      "category": "Docker",
+      "image": "images/Capture.PNG"
+    }
+  ]
+  

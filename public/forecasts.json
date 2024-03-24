@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Scheduling recurring tasks using cron-jobs",
+      "category": "Design",
+      "date": "Nov 7, 2023",
+      "image": "/images/cronjob.gif",
+      "description": "Automating system maintenance or administration for web applications for certain tasks to run periodically."
+    },
+    {
+      "title": "Monitor API health using prometheus and grafana",
+      "category": "Design",
+      "date": "Aug 16, 2023",
+      "image": "/images/monitor.gif",
+      "description": "To check proactively on daily basis the health status of the upstream nodes in servers."
+    },
+    {
+      "title": "Application Build and Deployment using Docker",
+      "category": "Design",
+      "date": "Feb 9, 2023",
+      "image": "/images/Voting-app.gif",
+      "description": "Implemented user-friendly interface based using Python and Redis messaging system.."
+    },
+    {
+      "title": "Kubernetes Cluster Setup",
+      "category": "Design",
+      "date": "Mar 15, 2023",
+      "image": "/images/Kubernetes Cluster.gif",
+      "description": "In this project, I have setup step-by-step guide to setting up a kubernetes cluster on Centos7 with one master and two worker nodes.."
+    }
+  ]
+  
